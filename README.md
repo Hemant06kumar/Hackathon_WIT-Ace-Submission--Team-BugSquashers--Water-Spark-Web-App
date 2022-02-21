@@ -1,5 +1,5 @@
 
-# To download the code, Please download this zip as code uploaded on github is not working properly
+# To download the download this zip
 [Bug Squashers- Wit Ace-Water Spark.zip](https://github.com/sourabhv/FlapPyBird/files/6678124/Bug.Squashers-.Wit.Ace-Water.Spark.zip)
 
 # Spark Water
